@@ -1,0 +1,26 @@
+.SignUp{
+
+margin: 30px;
+}
+
+.inputBox{
+    display: block;
+    padding: 5px;
+ 
+  margin: 30px auto;
+  border: 2px solid  skyblue;
+  border-radius: 1px;
+  width: 250px;
+
+}
+
+.Sinbutton{
+    margin: 25px;
+    padding: 10px;
+    width: 250px;
+    font-weight: bold;
+    font-size: 19s;
+    cursor: pointer;
+    border: 1px solid;
+    background-color: aqua;
+}

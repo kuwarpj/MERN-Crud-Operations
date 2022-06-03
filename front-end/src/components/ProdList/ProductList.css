@@ -1,0 +1,17 @@
+.productList{
+    text-align: center;
+    
+    margin-top: 50px;
+}
+
+.productList ul li{
+    display: inline-block;
+    border: 1px solid black;
+    padding:5px;
+    width: 130px;
+  
+}
+
+.productList ul{
+    margin: 0;
+}
